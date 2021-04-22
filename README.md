@@ -1,9 +1,5 @@
 ### Hey there, I'm Prajit 👋
-
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
+---
 ## I am a passionate self-taught Web Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
@@ -44,7 +40,7 @@
 ###                                   Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prajit's Spotify Playing" width="350" />](https://open.spotify.com/user/31l3dkj3qvgap6s7dsqnovptrhfm?si=de5c69f8f2624c55)
-<details>
+
 
 ---
 <!--START_SECTION:activity-->
@@ -55,7 +51,7 @@
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
-</details>
+
 
  
 
