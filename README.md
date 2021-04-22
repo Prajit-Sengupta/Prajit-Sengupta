@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-Prahit-Sengupta.vercel.app/api/spotify-playing" alt="Prajit's Spotify Playing" width="350" />](https://open.spotify.com/user/31l3dkj3qvgap6s7dsqnovptrhfm?si=de5c69f8f2624c55)
 
 ### Connect with me:
 
