@@ -9,11 +9,6 @@
 - ⚡ Fun fact: Trekking and Debating be my forte
 
 ---
-<summary>:zap: GitHub Stats</summary>
-
-![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,12 +29,16 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="40" height="40"> </a>
 <br />
 <br />
-
-
-
+---
 ###                                   Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prajit's Spotify Playing" width="350" />](https://open.spotify.com/user/31l3dkj3qvgap6s7dsqnovptrhfm?si=de5c69f8f2624c55)
+---
+<summary>:zap: GitHub Stats</summary>
+
+![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
+
+
 
 
 ---
