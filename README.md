@@ -1,5 +1,8 @@
 # Hey there, I'm Prajit 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajit-Sengupta" alt="Prajit-Sengupta" /> </p>
+
+
 ## Am a passionate self-taught Web Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
@@ -41,7 +44,7 @@
 
 ### <summary>:zap: GitHub Stats</summary>
 
-![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true&theme=radical)
+![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true&include_all_commits=true&theme=radical)(https://github.com/Prajit-Sengupta)
 
 
 
