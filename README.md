@@ -1,5 +1,5 @@
-### Hey there, I'm Prajit 👋
----
+# Hey there, I'm Prajit 👋
+
 ## I am a passionate self-taught Web Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
