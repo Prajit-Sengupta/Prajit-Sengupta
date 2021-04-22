@@ -11,7 +11,7 @@
 
  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Prajit-Sengupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&show_icons=true&hide_border=true" />
+ [![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
 
 
 ### Connect with me:
