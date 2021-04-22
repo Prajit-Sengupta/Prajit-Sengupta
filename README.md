@@ -8,10 +8,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
+---
+  <summary>:zap: GitHub Stats</summary>
 
- <summary>:zap: GitHub Stats</summary>
-
- ![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
+  ![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
 
 ---
 ### Connect with me:
