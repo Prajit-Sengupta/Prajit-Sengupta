@@ -44,7 +44,7 @@
 
 ### <summary>:zap: GitHub Stats</summary>
 
-![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true&include_all_commits=true&theme=radical)(https://github.com/Prajit-Sengupta)
+[![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Prajit-Sengupta)
 
 
 
