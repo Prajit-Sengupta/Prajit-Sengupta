@@ -6,8 +6,8 @@
 ## Am a passionate self-taught Web Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
-- 🌱 I’m currently into learning Back-End(Django) 
-- 👯 I’m looking to collaborate with other creators
+- 🌱 Currently into learning Back-End(Django) 
+- 👯 Looking forward to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
