@@ -6,15 +6,17 @@
 
 ## I am a passionate self-taught Web Developer from India!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Just started on with a project(URL Shortner)!
 - 🌱 I’m currently into learning Back-End(Django) 
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prajit's Spotify Playing" width="350" />](https://open.spotify.com/user/31l3dkj3qvgap6s7dsqnovptrhfm?si=de5c69f8f2624c55)
+ <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Prajit-Sengupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&show_icons=true&hide_border=true" />
+
 
 ### Connect with me:
 
@@ -39,10 +41,12 @@
 
 
 ---
+###                                   Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prajit's Spotify Playing" width="350" />](https://open.spotify.com/user/31l3dkj3qvgap6s7dsqnovptrhfm?si=de5c69f8f2624c55)
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+
+---
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
 2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
@@ -53,9 +57,7 @@
 
 </details>
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Prajit-Sengupta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+ 
 
 
 
