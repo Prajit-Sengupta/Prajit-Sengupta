@@ -11,9 +11,9 @@
 
  <summary>:zap: GitHub Stats</summary>
 
- [![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
+ ![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
 
-
+---
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
