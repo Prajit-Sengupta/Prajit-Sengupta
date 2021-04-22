@@ -1,19 +1,16 @@
-name: CI
+name: GitHub - Activity - Readme
 
-on: [push, pull_request]
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
-    name: Generate build and check code formatting
-
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
-      - run: npm ci
-      - run: npm run format:check
-      - run: npm run build
+      - uses: Prajit-Sengupta/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
