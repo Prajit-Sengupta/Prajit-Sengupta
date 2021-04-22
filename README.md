@@ -11,9 +11,9 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />[twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" xlink:href="assets/dist/img/icons.svg#logo-instagram" />][instagram]
 
 <br />
 
@@ -38,9 +38,9 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+### <summary>:zap: GitHub Stats</summary>
 
-![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true)
+![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true&theme=radical)
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/prajit2806
 [js]: https://www.w3schools.com/js/DEFAULT.asp
 [html]: https://www.w3schools.com/html/
 [youtube]: https://youtube.com/codeSTACKr
