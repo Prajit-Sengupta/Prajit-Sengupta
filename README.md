@@ -51,11 +51,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
-2. 💪 Opened PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
-3. 🎉 Merged PR [#19](https://github.com/Prajit-Sengupta/WorkDesk/pull/19) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
-4. 💪 Opened PR [#19](https://github.com/Prajit-Sengupta/WorkDesk/pull/19) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
-5. 🎉 Merged PR [#18](https://github.com/Prajit-Sengupta/WorkDesk/pull/18) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+1. 🎉 Merged PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+2. 💪 Opened PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+3. 🎉 Merged PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+4. 💪 Opened PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+5. 🎉 Merged PR [#19](https://github.com/Prajit-Sengupta/WorkDesk/pull/19) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
 <!--END_SECTION:activity-->
 
 
