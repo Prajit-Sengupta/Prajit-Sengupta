@@ -51,11 +51,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Manav1606/Test-Project/pull/1) in [Manav1606/Test-Project](https://github.com/Manav1606/Test-Project)
-2. 💪 Opened PR [#59](https://github.com/MicrosoftStudentChapter/MAKEATHON/pull/59) in [MicrosoftStudentChapter/MAKEATHON](https://github.com/MicrosoftStudentChapter/MAKEATHON)
-3. 🎉 Merged PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 💪 Opened PR [#777](https://github.com/nuxt/create-nuxt-app/pull/777) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-5. 💪 Opened PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 🎉 Merged PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+2. 💪 Opened PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+3. 🎉 Merged PR [#19](https://github.com/Prajit-Sengupta/WorkDesk/pull/19) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+4. 💪 Opened PR [#19](https://github.com/Prajit-Sengupta/WorkDesk/pull/19) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+5. 🎉 Merged PR [#18](https://github.com/Prajit-Sengupta/WorkDesk/pull/18) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
 <!--END_SECTION:activity-->
 
 
