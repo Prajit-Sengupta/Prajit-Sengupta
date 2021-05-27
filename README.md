@@ -52,11 +52,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/MicrosoftStudentChapter/MSC-Website/pull/38) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
-2. 🗣 Commented on [#31](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/31) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
-3. 🎉 Merged PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
-4. 💪 Opened PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
-5. 🎉 Merged PR [#22](https://github.com/Prajit-Sengupta/WorkDesk/pull/22) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+1. 🗣 Commented on [#43](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/43) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+2. 💪 Opened PR [#38](https://github.com/MicrosoftStudentChapter/MSC-Website/pull/38) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+3. 🗣 Commented on [#31](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/31) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+4. 🎉 Merged PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
+5. 💪 Opened PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
 <!--END_SECTION:activity-->
 
 
