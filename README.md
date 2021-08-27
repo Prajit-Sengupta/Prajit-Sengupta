@@ -54,10 +54,10 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet/pull/2) in [OWASP-STUDENT-CHAPTER/Cheatsheet](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet)
-2. 🎉 Merged PR [#1](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet/pull/1) in [OWASP-STUDENT-CHAPTER/Cheatsheet](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet)
-3. 🗣 Commented on [#43](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/43) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
-4. 💪 Opened PR [#38](https://github.com/MicrosoftStudentChapter/MSC-Website/pull/38) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+1. 💪 Opened PR [#59](https://github.com/MicrosoftStudentChapter/MSC-Website/pull/59) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+2. 🎉 Merged PR [#2](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet/pull/2) in [OWASP-STUDENT-CHAPTER/Cheatsheet](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet)
+3. 🎉 Merged PR [#1](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet/pull/1) in [OWASP-STUDENT-CHAPTER/Cheatsheet](https://github.com/OWASP-STUDENT-CHAPTER/Cheatsheet)
+4. 🗣 Commented on [#43](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/43) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
 5. 💪 Opened PR [#26](https://github.com/Prajit-Sengupta/WorkDesk/pull/26) in [Prajit-Sengupta/WorkDesk](https://github.com/Prajit-Sengupta/WorkDesk)
 <!--END_SECTION:activity-->
 
