@@ -2,7 +2,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajit-Sengupta" alt="Prajit-Sengupta" /> </p>
 
-
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 ## Am a passionate self-taught Web Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
@@ -35,14 +44,6 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="40" height="40"> </a>
 <br />
 <br />
-
----
- 
-###                                   Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prajit's Spotify Playing" width="350" />](https://open.spotify.com/user/31l3dkj3qvgap6s7dsqnovptrhfm?si=de5c69f8f2624c55)
-
----
 
 ### <summary>:zap: GitHub Stats</summary>
 
