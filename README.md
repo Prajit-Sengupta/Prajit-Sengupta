@@ -49,7 +49,7 @@
 
 [![Prajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajit-Sengupta&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Prajit-Sengupta)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prajit-Sengupta&theme=nightowl)
 
 
 ---
