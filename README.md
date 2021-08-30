@@ -12,7 +12,7 @@
                 ||----w |
                 ||     ||
 ```
-## Am a passionate self-taught Web Developer from India!
+## Am a passionate self-taught Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
 - 🌱 Currently into learning Back-End(Django) & ReactJs 
