@@ -54,11 +54,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/67) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
-2. 💪 Opened PR [#6](https://github.com/ShimilSAbraham/Hacktoberfest-2021/pull/6) in [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021)
-3. 🗣 Commented on [#289](https://github.com/fineanmol/Hacktoberfest2k21/issues/289) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
-4. 💪 Opened PR [#289](https://github.com/fineanmol/Hacktoberfest2k21/pull/289) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
-5. 💪 Opened PR [#8](https://github.com/lachenlama/ez_Unix/pull/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
+1. 💪 Opened PR [#183](https://github.com/vijaygupta18/Hacktoberfest-2021/pull/183) in [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
+2. 🗣 Commented on [#67](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/67) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+3. 💪 Opened PR [#6](https://github.com/ShimilSAbraham/Hacktoberfest-2021/pull/6) in [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021)
+4. 🗣 Commented on [#289](https://github.com/fineanmol/Hacktoberfest2k21/issues/289) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
+5. 💪 Opened PR [#289](https://github.com/fineanmol/Hacktoberfest2k21/pull/289) in [fineanmol/Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21)
 <!--END_SECTION:activity-->
 
 
