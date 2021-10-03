@@ -54,11 +54,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/ritikrajdev/Assignments/issues/18) in [ritikrajdev/Assignments](https://github.com/ritikrajdev/Assignments)
-2. 💪 Opened PR [#18](https://github.com/ritikrajdev/Assignments/pull/18) in [ritikrajdev/Assignments](https://github.com/ritikrajdev/Assignments)
-3. 🗣 Commented on [#11](https://github.com/avinash201199/To-Do-List/issues/11) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-4. 💪 Opened PR [#16](https://github.com/avinash201199/To-Do-List/pull/16) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-5. 💪 Opened PR [#183](https://github.com/vijaygupta18/Hacktoberfest-2021/pull/183) in [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
+1. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
+2. 🗣 Commented on [#18](https://github.com/ritikrajdev/Assignments/issues/18) in [ritikrajdev/Assignments](https://github.com/ritikrajdev/Assignments)
+3. 💪 Opened PR [#18](https://github.com/ritikrajdev/Assignments/pull/18) in [ritikrajdev/Assignments](https://github.com/ritikrajdev/Assignments)
+4. 🗣 Commented on [#11](https://github.com/avinash201199/To-Do-List/issues/11) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+5. 💪 Opened PR [#16](https://github.com/avinash201199/To-Do-List/pull/16) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
 <!--END_SECTION:activity-->
 
 
