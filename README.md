@@ -54,11 +54,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/JigmeT123/astrocredence/issues/1) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
-2. 🗣 Commented on [#5](https://github.com/JigmeT123/astrocredence/issues/5) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
-3. 💪 Opened PR [#1108](https://github.com/open-for-everyone/hacktoberfest2021/pull/1108) in [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021)
-4. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
-5. 🗣 Commented on [#18](https://github.com/ritikrajdev/Assignments/issues/18) in [ritikrajdev/Assignments](https://github.com/ritikrajdev/Assignments)
+1. 🗣 Commented on [#1](https://github.com/opencodeiiita/Geek-Editor-Frontend/issues/1) in [opencodeiiita/Geek-Editor-Frontend](https://github.com/opencodeiiita/Geek-Editor-Frontend)
+2. 🗣 Commented on [#1](https://github.com/JigmeT123/astrocredence/issues/1) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
+3. 🗣 Commented on [#5](https://github.com/JigmeT123/astrocredence/issues/5) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
+4. 💪 Opened PR [#1108](https://github.com/open-for-everyone/hacktoberfest2021/pull/1108) in [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021)
+5. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
 <!--END_SECTION:activity-->
 
 
