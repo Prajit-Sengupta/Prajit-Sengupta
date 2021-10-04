@@ -54,11 +54,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
-2. 🗣 Commented on [#9](https://github.com/opencodeiiita/Collaborative-Web/issues/9) in [opencodeiiita/Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web)
-3. 🗣 Commented on [#3](https://github.com/opencodeiiita/Geek-Editor-Frontend/issues/3) in [opencodeiiita/Geek-Editor-Frontend](https://github.com/opencodeiiita/Geek-Editor-Frontend)
-4. 🗣 Commented on [#8](https://github.com/opencodeiiita/Collaborative-Web/issues/8) in [opencodeiiita/Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web)
-5. 💪 Opened PR [#9](https://github.com/opencodeiiita/Collaborative-Web/pull/9) in [opencodeiiita/Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web)
+1. 💪 Opened PR [#483](https://github.com/Sangwan5688/Hacktoberfest2021/pull/483) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
+2. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
+3. 🗣 Commented on [#9](https://github.com/opencodeiiita/Collaborative-Web/issues/9) in [opencodeiiita/Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web)
+4. 🗣 Commented on [#3](https://github.com/opencodeiiita/Geek-Editor-Frontend/issues/3) in [opencodeiiita/Geek-Editor-Frontend](https://github.com/opencodeiiita/Geek-Editor-Frontend)
+5. 🗣 Commented on [#8](https://github.com/opencodeiiita/Collaborative-Web/issues/8) in [opencodeiiita/Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web)
 <!--END_SECTION:activity-->
 
 
