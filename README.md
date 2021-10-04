@@ -54,11 +54,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/JigmeT123/astrocredence/pull/11) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
-2. 💪 Opened PR [#305](https://github.com/vijaygupta18/Hacktoberfest-2021/pull/305) in [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
-3. 💪 Opened PR [#483](https://github.com/Sangwan5688/Hacktoberfest2021/pull/483) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
-4. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
-5. 🗣 Commented on [#9](https://github.com/opencodeiiita/Collaborative-Web/issues/9) in [opencodeiiita/Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web)
+1. 💪 Opened PR [#1](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey/pull/1) in [OWASP-STUDENT-CHAPTER/ShortcutKey](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey)
+2. 💪 Opened PR [#11](https://github.com/JigmeT123/astrocredence/pull/11) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
+3. 💪 Opened PR [#305](https://github.com/vijaygupta18/Hacktoberfest-2021/pull/305) in [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
+4. 💪 Opened PR [#483](https://github.com/Sangwan5688/Hacktoberfest2021/pull/483) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
+5. 🗣 Commented on [#8](https://github.com/lachenlama/ez_Unix/issues/8) in [lachenlama/ez_Unix](https://github.com/lachenlama/ez_Unix)
 <!--END_SECTION:activity-->
 
 
