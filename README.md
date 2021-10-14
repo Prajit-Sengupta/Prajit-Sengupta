@@ -54,11 +54,11 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/67) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
-2. 💪 Opened PR [#1](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey/pull/1) in [OWASP-STUDENT-CHAPTER/ShortcutKey](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey)
-3. 💪 Opened PR [#11](https://github.com/JigmeT123/astrocredence/pull/11) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
-4. 💪 Opened PR [#305](https://github.com/vijaygupta18/Hacktoberfest-2021/pull/305) in [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
-5. 💪 Opened PR [#483](https://github.com/Sangwan5688/Hacktoberfest2021/pull/483) in [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
+1. 🎉 Merged PR [#3](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey/pull/3) in [OWASP-STUDENT-CHAPTER/ShortcutKey](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey)
+2. 💪 Opened PR [#3](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey/pull/3) in [OWASP-STUDENT-CHAPTER/ShortcutKey](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey)
+3. 🗣 Commented on [#67](https://github.com/MicrosoftStudentChapter/MSC-Website/issues/67) in [MicrosoftStudentChapter/MSC-Website](https://github.com/MicrosoftStudentChapter/MSC-Website)
+4. 💪 Opened PR [#1](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey/pull/1) in [OWASP-STUDENT-CHAPTER/ShortcutKey](https://github.com/OWASP-STUDENT-CHAPTER/ShortcutKey)
+5. 💪 Opened PR [#11](https://github.com/JigmeT123/astrocredence/pull/11) in [JigmeT123/astrocredence](https://github.com/JigmeT123/astrocredence)
 <!--END_SECTION:activity-->
 
 
