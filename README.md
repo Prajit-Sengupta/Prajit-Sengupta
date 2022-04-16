@@ -15,9 +15,9 @@
 ## Am a passionate self-taught Developer from India!
 
 - 🔭 Just started on with a project(URL Shortner)!
-- 🌱 Currently into learning Back-End(Django) & ReactJs 
+- 🌱 Currently into learning Back-End(Django),ReactJs & Web-Scrapping (Beautiful Soup) 
 - 👯 Looking forward to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
 ---
