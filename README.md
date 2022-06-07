@@ -1,4 +1,4 @@
-# Hey there, I'm Prajit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hey there, I'm Prajit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajit-Sengupta" alt="Prajit-Sengupta" /> </p>
 
