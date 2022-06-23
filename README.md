@@ -14,9 +14,9 @@
 ```
 ## Am a passionate self-taught Developer from India!
 
-- 🔭 Just started on with a project(URL Shortner)!
-- 🌱 Currently into learning Back-End(Django),ReactJs & Web-Scrapping (Beautiful Soup) 
-- 👯 Looking forward to collaborate with other creators
+- 🔭 Working on Multimodal-Emotion-Recognition @IIT Kanpur!
+- 🌱 Currently into learning Machine Learning & Deep Learning
+- 👯 Looking forward to collaborating with other creators in ReactJs and Web-Scrapping Projects!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
