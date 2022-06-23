@@ -12,6 +12,8 @@
                 ||----w |
                 ||     ||
 ```
+[:heart: Sponsor me on GitHub](https://github.com/sponsors/Prajit-Sengupta/button)
+
 ## Am a passionate self-taught Developer from India!
 
 - 🔭 Working on Multimodal-Emotion-Recognition @IIT Kanpur!
