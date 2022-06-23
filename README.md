@@ -12,7 +12,7 @@
                 ||----w |
                 ||     ||
 ```
-[:heart: Sponsor me on GitHub](https://github.com/sponsors/Prajit-Sengupta/button)
+[:heart: Sponsor me on GitHub](https://github.com/sponsors/Prajit-Sengupta)
 
 ## Am a passionate self-taught Developer from India!
 
