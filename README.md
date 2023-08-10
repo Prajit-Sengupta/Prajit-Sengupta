@@ -19,7 +19,7 @@
 - 🔭 Working on Multimodal-Emotion-Recognition @IIT Kanpur!
 - 🌱 Currently into learning Machine Learning & Deep Learning
 - 👯 Looking forward to collaborating with other creators in ReactJs and Web-Scrapping Projects!
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
 ---
