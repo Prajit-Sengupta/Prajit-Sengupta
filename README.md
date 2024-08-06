@@ -16,10 +16,10 @@
 
 ## Am a passionate self-taught Developer from India!
 
-- 🔭 Working on Multimodal-Emotion-Recognition @IIT Kanpur!
+- 🔭 Pursuing Masters in Advanced Computing @Imperial College London
 - 🌱 Currently into learning Machine Learning & Deep Learning
-- 👯 Looking forward to collaborating with other creators in ReactJs and Web-Scrapping Projects!
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯 Looking forward to collaborating on Deep Learning based projects!
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Trekking and Debating be my forte
 
 ---
